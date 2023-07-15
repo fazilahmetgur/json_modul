@@ -1,6 +1,7 @@
 import json
 import re
 import os
+import math
 
 def kayit_ol():
     print("Kayıt Ol")
